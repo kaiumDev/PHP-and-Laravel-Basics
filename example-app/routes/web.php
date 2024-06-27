@@ -2,10 +2,14 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/',function(){
+    return view('HomePage');
 });
 
-Route::get('/xubayer',function(){
-    return "I'm Sabbir";
+Route::get('/contact',function(){
+    return view('ContactPage');
+});
+
+Route::get('/about',function(){
+    return view('AboutPage');
 });

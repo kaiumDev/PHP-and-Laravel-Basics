@@ -1,0 +1,80 @@
+/* class 1 */
+    /* h1{
+        color: red;
+        font-size: 50px;
+    }
+    p{
+        font-size: 40px;
+        color: green;
+    }
+    #header{
+        background-color: #ddd;
+        padding: 20px;
+        font-size: 18px;
+    }
+    .body{
+        background-color: red;
+        color: #fff;
+        padding: 10px;
+    }
+    /* CSS Grouping 
+    h1,p,.body,#header{
+        text-align: center;
+    } */
+
+
+/* class 2 */
+    /* h1{
+        color:rgb(255, 99, 71,0.5);
+        font-size: 50px;
+    }
+    p{
+        font-size: 40px;
+        color: green;
+        border: 5px solid green;
+    }
+    #header{
+        background-color: #ddd;
+        padding: 20px;
+        font-size: 18px;
+    }
+    .body{
+        background-color: red;
+        color: #fff;
+        padding: 10px;
+    }
+    */
+
+    /* class 3 */
+    /* .body{
+        
+        color: #0d0d0d;
+        padding: 10px;
+    }
+    .body{
+        background: #ddd url(../img/spinner2.gif) no-repeat center center;
+    } */
+     
+    /* class 4 */
+    h1{
+        border: 5px solid red ;
+        border-color: red green yellow blue;
+        border-width: 20px;
+        font-size: 50px;
+    }
+    /* margin padding class 5 */
+    h1{
+        margin: 70px;
+        padding: 50px;
+
+    }
+    .new{
+        background: #fff000; width: 200px;height: 200px; margin: 0px auto;
+    }
+
+    /* width height class 6 */
+    .class6{
+        background:linear-gradient(-60deg,red,green, yellow); width: 30%;height: 200px;
+    }
+
+    
